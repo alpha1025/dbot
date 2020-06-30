@@ -2,9 +2,9 @@
   "name": "alphabot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "final.js",
   "scripts": {
-    "start": node bot.js"
+    "start": node final.js"
   },
   "keywords": [],
   "author": "",
