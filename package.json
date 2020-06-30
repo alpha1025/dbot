@@ -4,7 +4,7 @@
   "description": "",
   "main": "final.js",
   "scripts": {
-    "start": node final.js"
+    "start": "node final.js"
   },
   "keywords": [],
   "author": "",
