@@ -12,4 +12,4 @@ const prefix = '!'
       message.channel.send('Pong.')
     }
   })
-  client.login(process.env.NzEyMTQwMzQyODY2MjE0OTMy.XtVa1g.SfpJFEl63TSBszX57OQWRaC34B8)
+  client.login(process.env.BOT_TOKEN)
